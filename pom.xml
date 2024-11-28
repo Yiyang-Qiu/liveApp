@@ -10,6 +10,7 @@
 
   <name>Archetype - qiyu-live-app</name>
   <url>http://maven.apache.org</url>
+
   <modules>
     <module>qiyu-live-user-interface</module>
     <module>qiyu-live-user-provider</module>
